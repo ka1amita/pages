@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: base
 title: Custom Page
 permalink: /custom-page/
 ---
